@@ -1,4 +1,4 @@
-i#!/usr/bin/env python3
+#!/usr/bin/env python3
 """This file contains the sum_mixed_list function"""
 from typing import List, Union
 
